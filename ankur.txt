@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 this is going to create a conflict.
+>>>>>>> origin/master
